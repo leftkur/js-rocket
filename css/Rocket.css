@@ -1,0 +1,24 @@
+.left{
+	background-color: rgb(2, 210, 252);
+	position: fixed;
+	width: 50%;
+	height: 100%;
+	top: 0;
+	left: 0;
+}
+.rigt{
+	background-color: rgb(204, 228, 255);
+	position: fixed;
+	width: 50%;
+	height: 100%;
+	top: 0;
+	right: 0;
+}
+
+a{
+
+}
+
+a.button{
+
+}
